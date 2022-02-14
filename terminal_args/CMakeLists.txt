@@ -1,0 +1,1 @@
+add_executable(terminal_args main.cpp)
