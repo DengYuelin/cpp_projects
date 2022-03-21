@@ -2,8 +2,7 @@
 #include <vector>
 
 int main(int argc, char** argv) {
-  std::cout << "You have entered " << argc << " arguments:"
-            << "\n";
+  std::cout << "You have entered " << argc << " arguments:" << std::endl;
 
   for (int i = 0; i < argc; ++i) std::cout << argv[i] << "\n";
 
