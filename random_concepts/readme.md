@@ -13,4 +13,5 @@
 -   const vs define
 -   What is a member class?
 -   De-referencing a pointer
+-   vec.size() is unsigned, do not use 'i < vec.size() - num', use 'i + num < vec.size()'
 -
