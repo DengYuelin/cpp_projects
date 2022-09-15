@@ -5,7 +5,7 @@ project(refresh_cpp)
 
 add_subdirectory(hello_world)
 add_subdirectory(eigen)
-add_subdirectory(practice/control)
+# add_subdirectory(practice/control)
 add_subdirectory(progress_bar) 
 add_subdirectory(terminal_args)
 add_subdirectory(vector)
